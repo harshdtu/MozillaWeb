@@ -1,0 +1,15 @@
+{
+  "name": "My App",
+  "description": "My elevator pitch goes here",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/images/arrows.png",
+    "128": "/images/arrows.png"
+  },
+  "developer": {
+    "name": "Your name or organization",
+    "url": ""
+  },
+  "default_locale": "en",
+  "fullscreen":true
+}
